@@ -24,6 +24,7 @@
 }
 
 .about_me-image:hover{
+    
     transform: rotate(0deg,);
     transform: rotate(-20deg);
 
@@ -125,3 +126,6 @@
    
     
   }
+
+
+  

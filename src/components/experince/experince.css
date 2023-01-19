@@ -1,7 +1,10 @@
 .experince_container{
     display: grid;
     grid-template-columns: 1fr 1fr ;
+    justify-content: center;
     gap: 2rem;
+    width: var(--container-width-lg);
+
 }
 
 .experince_container > div{
@@ -60,6 +63,8 @@
 
         grid-template-columns: 1fr;
         margin-top: 2rem;
+        width: var(--container-width-md);
+
     }
 
     .My-skills{
